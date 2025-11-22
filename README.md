@@ -1,4 +1,4 @@
-# Antigravity to OpenAI API 代理服务
+# Agy to OpenAI API 代理服务
 
 将 Google Antigravity API 转换为 OpenAI 兼容格式的代理服务，支持流式响应、工具调用和多账号管理。
 
